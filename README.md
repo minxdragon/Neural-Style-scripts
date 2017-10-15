@@ -1,6 +1,6 @@
 # Neural-Style-scripts
 a couple of shell scripts for using with JcJohnson's Neural-style
-These are some automation scripts that work with JC Johnson’s Neural Style. 
+These are some automation scripts that work for sequencing images for animations and for batch processing a number of images at once. 
 Install Neural Style here: https://github.com/jcjohnson/neural-style
 
 Change Path information to your own neural style locations and add these scripts to your Neural style directory.
